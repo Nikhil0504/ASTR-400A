@@ -1,3 +1,6 @@
 [submodule "HWs/ASTR-400A-HWs"]
 	path = HWs/ASTR-400A-HWs
 	url = https://github.com/Nikhil0504/ASTR-400A-HWs
+[submodule "lecture_notes"]
+	path = lecture_notes
+	url = git@github.com:mathren/stellar_phys_400A.git
