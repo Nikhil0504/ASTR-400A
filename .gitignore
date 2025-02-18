@@ -1,2 +1,3 @@
 *.pdf
 Data/
+__pycache__
